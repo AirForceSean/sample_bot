@@ -172,4 +172,4 @@ async def on_ready():
     # bot.add_view(MyView())  # вечные кнопки
 
 
-bot.run("Nzg1MzQ4OTAzNjY3MTA1ODMy.GGb89o.c4-FYR-qATzWdvA__WnHAsoBttOBbh6tgVS06k")
+bot.run("TOKEN")
